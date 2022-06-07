@@ -395,20 +395,18 @@
                 color: rgba(107, 114, 128, var(--tw-text-opacity))
             }
         }
-
     </style>
 
     <style>
         body {
             font-family: 'Nunito', sans-serif;
         }
-
     </style>
 </head>
 
 <body class="antialiased">
     <div class="flex h-18 items-center justify-center w-full">
-        Testing some stuff for Laravel LLC
+        Testing some stuff for Laravel LLC (2nd test, really)
     </div>
     <div
         class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
